@@ -13,3 +13,6 @@ A website project based on a idea of a company that sell consultancy services to
 - **HTML**
 - **CSS**
 - **JS**
+
+# 📝 License
+This project have the license of the [MIT](./LICENSE).
