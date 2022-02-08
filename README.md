@@ -7,3 +7,9 @@ A website project based on a idea of a company that sell consultancy services to
 <h1 align="center">
     <img alt="colors_GIF" title="colors_interface_GIF" src="github/colors_website.gif">
 </h1>
+
+# 💻 Technologies
+## Front End
+- **HTML**
+- **CSS**
+- **JS**
